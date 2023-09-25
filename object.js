@@ -22,4 +22,5 @@ const student = {
     }
 }
 console.log(student);
+console.log(student.act());
 student.act();
